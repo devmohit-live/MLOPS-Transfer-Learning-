@@ -1,6 +1,7 @@
 # MLOPS : Transfer Learning
 
 Using the concept of Transfer Learning to add functionalities/ extra recognition abilities to the already existing models.
+
 Data set used :
 * ImageNet
 * Captured Photos
